@@ -1,0 +1,7 @@
+venv
+*.pyc
+.env
+*.db
+.settings
+.project
+.pydevproject
